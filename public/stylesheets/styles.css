@@ -10,6 +10,8 @@ body {
   align-items: center;
   -webkit-justify-content: center;
   justify-content: center;
+  -webkit-flex-direction: column;
+  flex-direction: column;
 }
 
 #play_audio {
@@ -21,6 +23,7 @@ body {
   font-size: 3em;
   background: #FAC900;
   padding: 5vw;
+  margin: 2vh;
   text-decoration: none;
 }
 
