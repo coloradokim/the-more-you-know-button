@@ -3,7 +3,7 @@ body {
 }
 
 .vertical-container {
-  height: 120vh;
+  height: 95vh;
   display: -webkit-flex;
   display: flex;
   -webkit-align-items: center;
@@ -30,4 +30,8 @@ body {
 #play_audio:hover {
   background: #FAC950;
   text-decoration: none;
+}
+
+.gif {
+  display: none;
 }
